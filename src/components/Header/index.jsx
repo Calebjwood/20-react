@@ -8,13 +8,13 @@ const Header = () => {
         <Link className="text-light" to="/">
           <h1 className="m-0">About Me</h1>
         </Link>
-        <Link className="text-light" to="/">
+        <Link className="text-light" to="/projects">
           <h1 className="m-0">Portfilio</h1>
         </Link>
-        <Link className="text-light" to="/">
+        <Link className="text-light" to="/contacts">
           <h1 className="m-0">Contact</h1>
         </Link>
-        <Link className="text-light" to="/">
+        <Link className="text-light" to="/resume">
           <h1 className="m-0">Resume</h1>
         </Link>
         
